@@ -9,4 +9,9 @@ Kami dari berharap melalui tugas ini kalian dapat mempunyai pengertian lebih bai
 Hal pertama yang kalian harus lakukan adalah membuat sebuah fork dari [repository github yang disediakan](https://github.com/valentino-setiawan/CSS_Assignment-Template). Setelah terbuat silahkan buka fork tersebut
 
 ### 2. Git Clone
-Untuk mulai pengerjaan tolong clone fork yang kalian telah buat kepada lokasi yang kalian ingin di PC kalian
+Untuk mulai pengerjaan tolong clone fork yang kalian telah buat kepada lokasi yang kalian ingin di PC kalian, direkomendasi di clone ke folder umum sebab file-file yang di download akan sudah di gabung ke folder baru.
+
+### 3. Tempat Pengerjaan
+Dalam folder yang kalian clone, silahkan copy dan paste file "index.html" dan "style.css" ke folder Tempat Pengerjaan. Dari situ kalian sudah bisa mulai mengerjakan tugas. Semoga Beruntung!
+
+### 4. Add Remote
