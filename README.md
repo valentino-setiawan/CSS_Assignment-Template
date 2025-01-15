@@ -19,3 +19,12 @@ Setelah kalian berasa sudah menyelesaikan tugas dan ingin mengumpulkan hasilnya,
 
 ## Contoh Video 
 Berikut adalah demonstrasi video jika kalian butuh pembantu visual, Selamat Mengerjakan!
+
+### Bagian pertama
+https://github.com/user-attachments/assets/466e63fa-08e6-4abc-b248-06a9972bddd4
+
+### Bagian kedua
+https://github.com/user-attachments/assets/3d5f8d89-870e-4f8a-b49e-8af30b6be971
+
+
+
